@@ -89,3 +89,23 @@ ordenar 12 numeros, de menor a mayor
        Aqui termina por que cuando cumpla en que los dos ultimos son ceros todos, pues termina
 Aprendiendo programacion, en este medio del github plasmo como hacer ciertos procediemientos, me gustan los patrones, ahora entiendo su importnacia
 darle editar para verlo como lo tenia planeado...
+
+a = 07
+b = 15
+--------
+#>> a = a + b <<
+a = 07 + 15
+a = 22
+#>> b = a - b <<
+b = 22 - 15
+b = 07
+#>> a = a - b <<
+a = 22 - 07
+a = 15
+-------
+print(a);
+print(b);
+_________
+a = 15
+b = 07
+End
