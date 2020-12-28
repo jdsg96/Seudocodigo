@@ -88,3 +88,4 @@ ordenar 12 numeros, de menor a mayor
        
        Aqui termina por que cuando cumpla en que los dos ultimos son ceros todos, pues termina
 Aprendiendo programacion, en este medio del github plasmo como hacer ciertos procediemientos, me gustan los patrones, ahora entiendo su importnacia
+darle editar para verlo como lo tenia planeado...
